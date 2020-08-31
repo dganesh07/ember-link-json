@@ -32,8 +32,8 @@
         "id": 5,
         "from": 5,
         "to": 1,
-        "color": "E",
-        "text": "epsilon-link"
+        "color": "red",
+        "text": "E"
       }
     ]
   }
